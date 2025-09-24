@@ -1,0 +1,9 @@
+{
+    "download_dir": null,
+    "max_retries": 3,
+    "timeout": 30,
+    "preferred_quality": "medium",
+    "preferred_format": "auto",
+    "log_level": "INFO",
+    "filename_max_length": 80
+}
